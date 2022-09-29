@@ -1,0 +1,24 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  background-color: #23252C;
+}
+
+.card {
+  width: fit-content;
+  max-width: 50rem;
+  background-color: #1A1B21;
+  border-radius: 1rem;
+  margin: 3rem auto;
+  color: white;
+}
+
+.container {
+  width: 80%;
+  max-width: 20rem;
+  margin: 0 auto;
+}
+

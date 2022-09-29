@@ -1,0 +1,52 @@
+.info {
+    text-align: center;
+}
+
+.profile-img {
+    width: 20rem;
+    height: 25rem;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.info--name {
+    margin-bottom: .4rem;
+}
+
+.info--role {
+    margin: 0;
+    font-weight: 300;
+    color: #F3BF99;
+}
+
+.btn-container {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    font-size: small;
+    border-style: none;
+    width: 6rem;
+    padding-block: .2rem;
+    padding-inline: .7rem;
+    border-radius: .6rem;
+}
+
+.btn--email {
+    background-color: white;
+    color: black;
+}
+.btn--linkedin {
+    color: white;
+    background-color: #5093E2;
+}
+
+.fa-envelope {
+    margin-right: .3rem;
+}
+
+.fa-linkedin {
+    color: white;
+    margin-right: .5rem;
+}

@@ -1,0 +1,12 @@
+footer {
+    background-color: #161619;
+    border-radius: 0 0 1rem 1rem;
+    padding: .8rem 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer a {
+    font-size: larger;
+    color: #918E9B;
+}
